@@ -1,3 +1,6 @@
 This is my first Git test.
 data cleaning steps
 EDA plans
+encoding
+scaling
+transformations
